@@ -1,6 +1,5 @@
 # JavaScript Calculator
 
-
 ## Live Demonstration 
 
 Live project link: <https://ernesthenry.github.io/javascript-calculator/> 
